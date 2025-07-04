@@ -1,0 +1,22 @@
+ID Sk,Word Sk,Frequency Sk,Type Sk,Page Sk,ID Cz,Word G Cz,Page G Cz,Word N Cz,Frequency Cz,Page Cz,Comment
+388,financie,4,6,243,,,,,,,plurale tantum
+389,hrable,2,6,257,,,,,,,plurale tantum
+391,husle,15,6,258,,,,,,,plurale tantum
+390,jasle,5,6,258,,,,,,,plurale tantum
+384,Košice,29,6,241,,,,,,,plurale tantum
+387,Michalovce,2,6,242,,,,,,,plurale tantum
+385,nohavice,35,6,241,,,,,,,plurale tantum
+383,nožnice,2,6,240,,,,,,,plurale tantum
+300,šteňa,3,6,201,,,,,,,"listed as 1 6 in Sk, this is a typo"
+386,Vianoce,13,6,241,,,,,,,plurale tantum
+473,stať,670,7,452,838,statě,210,stať,18,123,"multiple G, most Sk isn't a noun"
+473,stať,670,7,452,876,stati,235,stať,18,123,"multiple G, most Sk isn't a noun"
+406,výmoľ,2,7,319,,,,,,,actually stroj
+410,zem,460,7,320,780,Země,208,,,,
+372,hneď,350,8,240,,,,,,,usually not a noun
+,,,,,882,děti,235,,,,feminine plural of dítě (neuter)
+,,,,,556,férie,198,férie,2,28,plurale tantum
+,,,,,605,ideje,199,idea,25,2,vzor idea
+,,,,,867,Káji,228,Kája,2,3,vzor žena
+,,,,,609,Koreje,199,Korea,5,2,vzor idea
+,,,,,1303,Prievidzi,241,Prievidza,3,16,vzor žena
