@@ -1,0 +1,392 @@
+gebauer1960:
+  type: Book
+  title: "Historická mluvnice jazyka českého, Tvarosloví. III, 1: Skloňování"
+  author: Gebauer, Jan
+  # volume: 3
+  # issue: 1
+  publisher: Academia
+  place: Prague
+  date: 1960
+
+lamprecht1986:
+  type: Book
+  title: Historická mluvnice Češtiny
+  author:
+  - Lamprecht, Arnošt
+  - Šlosar, Dušan
+  - Bauer, Jaroslav
+  publisher: Státní pedagogické nakladatelství
+  place: Prague
+  date: 1986
+
+mann1977:
+  type: Book
+  title: Czech Historical Grammar
+  edition: Revised Edition
+  author: Mann, Stuart E.
+  publisher: Buske
+  place: Hamburg
+  date: 1977
+  serial-number:
+    isbn: 3-87118-261-3
+
+stanislav1958:
+  type: Book
+  title: "Dejiny slovenského jazyka, Tvaroslovie"
+  volume: 2
+  author: Stanislav, Ján
+  publisher: Vydavateľstvo Slovenskej akadémie vied
+  place: Bratislava
+  date: 1958
+
+mares2001:
+  type: Chapter
+  title: The Historic Development of the Slavic Noun Declension I (The System of Categories)
+  author: Mareš, František Václav
+  parent:
+    type: Book
+    title: Diachronische Morphologie des Ur- und Frühslavischen
+    author: Mareš, František Václav
+    date: 2001
+    serial-number:
+      issn: 0949-023X
+      isbn: 3-631-35539-4
+    publisher: Europäischer Verlag der Wissenschaften
+    place: Frankfurt am Main
+    parent:
+      type: Periodical
+      title: Schriften über Sprachen und Texte
+      volume: 5
+
+maresova2008:
+  type: Book
+  title: Základy historické mluvnice češtiny (s texty k rozboru)
+  author: Marešová, Hana
+  place: Olomouc
+  date: 2008
+  publisher: Vydavatelství Univerzity Palackého v Olomouci
+  edition: 1. vydání
+
+porak1979:
+  type: Book
+  title: Chrestomatie k vývoji českého jazyka (13.-18. století)
+  author: Porák, Jaroslav
+  publisher: Státní pedagogické nakladatelství
+  place: Prague
+  date: 1979
+  edition: 1. vydání
+
+trubachev:
+  type: Book
+  title: "Этимологический словарь славянских языков: праславянский лексический фонд"
+  editor:
+  - Трубачев, О. Н.
+  - Журавлев, А. Ф.
+  - Варбот, Ж. Ж.
+  place: Москва
+  publisher: Наука
+
+trubachev6:
+  type: Book
+  title: "Этимологический словарь славянских языков: праславянский лексический фонд"
+  editor:
+  - Трубачев, О. Н.
+  volume: 6
+  place: Москва
+  date: 1979
+  publisher: Наука
+
+trubachev7:
+  type: Book
+  title: "Этимологический словарь славянских языков: праславянский лексический фонд"
+  editor:
+  - Трубачев, О. Н.
+  volume: 7
+  place: Москва
+  date: 1980
+  publisher: Наука
+
+trubachev12:
+  type: Book
+  title: "Этимологический словарь славянских языков: праславянский лексический фонд"
+  editor:
+  - Трубачев, О. Н.
+  volume: 12
+  place: Москва
+  date: 1985
+  publisher: Наука
+
+trubachev31:
+  type: Book
+  title: "Этимологический словарь славянских языков: праславянский лексический фонд"
+  editor:
+  - Трубачев, О. Н.
+  - Журавлев, А. Ф.
+  volume: 31
+  place: Москва
+  date: 2005
+  publisher: Наука
+
+trubachev32:
+  type: Book
+  title: "Этимологический словарь славянских языков: праславянский лексический фонд"
+  editor:
+  - Трубачев, О. Н.
+  - Журавлев, А. Ф.
+  volume: 32
+  place: Москва
+  date: 2005
+  publisher: Наука
+
+machek1968:
+  type: Book
+  title: Etymologický slovník jazyka českého
+  author: Machek, Václav
+  place: Praha
+  date: 1968
+  publisher: Academia
+  edition: Druhé, opravené a doplněné vydání
+
+vasmer:
+  type: Book
+  title: Russisches etymologisches Wörterbuch
+  author: Vasmer, Max
+  place: Heidelberg
+  # date: 1953-??
+  publisher: Carl Winter Universitätsverlag
+
+vasmer2:
+  type: Book
+  title: Russisches etymologisches Wörterbuch
+  author: Vasmer, Max
+  place: Heidelberg
+  date: 1955
+  volume: 2
+  publisher: Carl Winter Universitätsverlag
+
+dorula2003:
+  type: Book
+  title: Krátky slovník slovenského jazyka
+  author:
+  - Doruľa, J.
+  - Kačala, J.
+  - Marsinová, M.
+  - Masár, I.
+  - Michalus, Š.
+  - Peciar, Š.
+  - Pisárčiková, M.
+  - Považaj, M.
+  - Slivková, V.
+  - Smiešková, E.
+  - Tibenská, E.
+  - Urbančok, M.
+  editor:
+  - Kačala, J.
+  - Pisárčiková, M.
+  - Považaj, M.
+  date: 2003
+  serial-number:
+    isbn: 80-224-0750-X
+  publisher: Veda
+  place: Bratislava
+  edition: 4. doplnené a upravené vydanie
+
+blanar:
+  type: Book
+  title: Historický slovník slovenského jazyka
+  author:
+  - Blanár, V.
+  - Giger, M.
+  - Hríbiková, A.
+  - Jóna, E.
+  - Kotulič, I.
+  - Kováčová, M.
+  - Krasnovská, E.
+  - Kuchar, R.
+  - Laliková, T.
+  - Majtán, M.
+  - Majtánová, M.
+  - Ondrejková, R.
+  - Ondrejkovičová, D.
+  - Osadská, A.
+  - Peciar, Š.
+  - Ricziová, B.
+  - Szabová, A.
+  - Sitárová, M.
+  - Skladaná, J.
+  - Valentová, I.
+  editor:
+  - Majtán, M.
+  - Kuchar, R.
+  - Skladaná, J.
+  # date: 1991-2008
+  serial-number:
+    isbn: 80-224-0378-4
+  publisher: Veda
+  place: Bratislava
+  url:
+    value: https://slovnik.juls.savba.sk/?d=hssj
+    date: 2025-07-03
+
+blanar1:
+  type: Book
+  title: Historický slovník slovenského jazyka
+  author:
+  - Blanár, V.
+  - Jóna, E.
+  - Kotulič, I.
+  - Krasnovská, E.
+  - Kuchar, R.
+  - Majtán, M.
+  - Majtánová, M.
+  - Peciar, Š.
+  - Riczová, B.
+  - Skladaná, J.
+  editor:
+  - Majtán, Milan
+  - Blanár, Vincent
+  - Kotulič, Izidor
+  - Peciar, Štefan
+  serial-number:
+    isbn: 80-224-0228-1
+  volume: 1
+  date: 1991
+  publisher: Veda
+
+petr1986:
+  type: Book
+  title: "Mluvnice češtiny (2): Tvarosloví"
+  author: Petr, Jan
+  editor:
+  - Komárek, Miroslav
+  - Kořenský, Jan
+  - Petr, Jan
+  - Veselková, Jarmila
+  place: Praha
+  date: 1986
+  publisher: Academia
+  # volume: 2
+
+tesitelova1986:
+  type: Book
+  title: Retrográdní slovník současné češtiny
+  author:
+  - Těšitelová, Marie
+  - Petr, Jan
+  - Králík, Jan
+  editor: Horecký, Ján
+  place: Praha
+  date: 1986
+  publisher: Academia
+
+mistrik1976:
+  type: Book
+  title: Retrográdny slovník slovenčiny
+  author: Mistrík, Jozef
+  editor: Pauliny, Eugen
+  place: Bratislava
+  date: 1976
+  publisher: Univerzita Komenského
+
+havranek1989:
+  type: Book
+  title: Slovník spisovného jazyka českého
+  author:
+  - Havránek, Bohuslav
+  - Bělič, J.
+  - Helcl, M.
+  - Jedlička, A.
+  - Křístek, V.
+  - Trávníček, Fr.
+  editor:
+  - Pešatová, Hana
+  - Čech, Petr
+  place: Praha
+  date: 1989
+  publisher: Academia
+  edition: 2., nezměněné vydání
+  url:
+    value: https://ssjc.ujc.cas.cz/
+    date: 2025-07-03
+
+letz1950:
+  type: Book
+  title: Gramatika slovenského jazyka
+  author: Letz, Belo
+  place: Bratislava
+  date: 1950
+  publisher: Štátne nakladateľstvo
+
+grzegorczykowa1984:
+  type: Book
+  title: "Gramatyka współczesnego języka polskiego: Morfologia"
+  editor:
+  - Grzegorczykowa, Renata
+  # - Kallas, Krystyna
+  # - Kowalik, Krystyna
+  - Laskowski, Roman
+  # - Orzechowska, Alicja
+  # - Puzynina, Jadwiga
+  - Wróbel, Henryk
+  place: Warszawa
+  date: 1984
+  publisher: Państwowe Wydawnictwo Naukowe
+  serial-number:
+    isbn: 83-01-03601-X
+  edition: Wydanie pierwsze
+  # volume: 2
+
+nandris1959:
+  type: Book
+  title: "Handbook of Old Church Slavonic. Part I: Old Church Slavonic Grammar"
+  author: Nandriș, Grigore
+  place: London
+  date: 1959
+  publisher: The Athlone Press
+
+nabelkova2016:
+  type: Chapter
+  title: "The Czech-Slovak Communicative and Dialect Continuum: With and Without a Border"
+  author: Nábělková, Mira
+  serial-number:
+    doi: 10.1007/978-1-137-34839-5_8
+  parent:
+    type: Book
+    title: The Palgrave Handbook of Slavic Languages, Identities and Borders
+    editor:
+    - Kamussela, Tomasz
+    - Nomachi, Motoki
+    - Gibson, Catherine
+    serial-number:
+      isbn: 978-1-137-34838-8
+    date: 2016
+    publisher: Palgrave Macmillan
+
+holub1967:
+  type: Book
+  title: "Stručný etymologický slovník jazyka českého: se zvláštník zřetelem k slovům kulturním a cizím"
+  author:
+  - Holub, Josef
+  - Lyer, Stanislav
+  place: Praha
+  date: 1967
+  publisher: Státní pedagogické nakladatelství
+
+holub1952:
+  type: Book
+  title: Etymologický slovník jazyka českého
+  author:
+  - Holub, Josef
+  - Kopečný, František
+  place: Praha
+  date: 1952
+  publisher: Státní nakladatelství učebnic
+
+birnbaum2013:
+  type: Web
+  title: suprasliensis.obdurodon.org
+  author: Birnbaum, David J.
+  # date:  2013-01-23
+  url:
+    value: http://suprasliensis.obdurodon.org/pages/supr014v.html
+    date: 2025-07-03
