@@ -12,7 +12,7 @@ ID Sk,Word Sk,Frequency Sk,Type Sk,Page Sk,ID Cz,Word G Cz,Page G Cz,Word N Cz,F
 473,stať,670,7,452,838,statě,210,stať,18,123,"multiple G, most Sk isn't a noun"
 473,stať,670,7,452,876,stati,235,stať,18,123,"multiple G, most Sk isn't a noun"
 406,výmoľ,2,7,319,,,,,,,actually stroj
-410,zem,460,7,320,780,Země,208,,,,
+410,zem,460,7,320,780,Země,208,,,,no frequency listed - included under země?
 372,hneď,350,8,240,,,,,,,usually not a noun
 ,,,,,882,děti,235,,,,feminine plural of dítě (neuter)
 ,,,,,556,férie,198,férie,2,28,plurale tantum
